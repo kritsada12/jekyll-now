@@ -7,12 +7,12 @@ categories: My blog
 
 #My resume
 
-###•Bs.c in Computer Science,Faculty of Computer Science, Ubon Ratchathani Rajabhat University.
+•Bs.c in Computer Science,Faculty of Computer Science, Ubon Ratchathani Rajabhat University.
 
 #Experrience
-###•เคยแข่งเต้นบีบอยระดับภาค
-###•เคยแข่งวิ่งระดับภาค
+•เคยแข่งเต้นบีบอยระดับภาค
+•เคยแข่งวิ่งระดับภาค
 
 #Educatuon
-###•Bs.c in Computer Science,Faculty of Computer Science, Ubon Ratchathani Rajabhat University.
-###•Tessaban 2 Nongbua School, Ubon Ratchathani, High school.
+•Bs.c in Computer Science,Faculty of Computer Science, Ubon Ratchathani Rajabhat University.
+•Tessaban 2 Nongbua School, Ubon Ratchathani, High school.
